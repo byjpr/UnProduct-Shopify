@@ -2,7 +2,7 @@
 non-uniform test product data for the Shopify Platform. E-Commerce is a fast pace enviroment, and whilst we like to think that people will spend time carefully inputing product data, or even taking consistent product photos, that's not always the case.
 This project will hopefully provide you with sample data that will test your theme or application with slight variants.
 
-## How do I import?
+## How do I import?
 These steps assume you've downloaded or cloned this project to your local computer already. Please make sure you are using a test Shopify Store and not a live one.
 
 1. From your Shopify admin, click `Products`.
